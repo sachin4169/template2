@@ -23,3 +23,20 @@ li a{
     color: blue;
     font-weight:bold ;
 }
+
+.hero{
+    background-color: #eeeeee;
+}
+.hero__col1{
+    padding: 5% 3%;
+    width: 25%;
+    line-height: 1.5;
+}
+.hero__col1 > p{
+    padding: 15px 0;
+    font-weight: 500;
+}
+.btn{
+    margin-top: 10px;
+    padding: 5px 20px;
+}
