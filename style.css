@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+.main{
+   margin: 4%;
+}
+.header{
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+.header h1{
+    font-weight:bolder;
+}
+li{
+    display: inline;
+    padding: 20px;
+}
+li a{
+    color: blue;
+    font-weight:bold ;
+}
